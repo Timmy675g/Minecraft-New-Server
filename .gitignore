@@ -11,6 +11,7 @@ banned-ips.json
 banned-players.json
 ops.json
 whitelist.json
+fabric.jar
 
 # --- Fabric/Loader Internals ---
 .fabric/
