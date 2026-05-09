@@ -26,5 +26,9 @@ versions/
 hs_err_pid*
 
 # --- Only track mods, but ignore downloaded server jars if you want ---
-# server.jar
-# fabric-server-launch.jar
+server.jar
+fabric-server-launch.jar
+
+# Private Data ( I think )
+.rcon-cli.env
+.rcon-cli.yaml
