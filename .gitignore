@@ -1,0 +1,29 @@
+# --- Minecraft Server Folders to Ignore ---
+world/
+world_nether/
+world_the_end/
+logs/
+crash-reports/
+debug/
+usercache.json
+usernamecache.json
+banned-ips.json
+banned-players.json
+ops.json
+whitelist.json
+
+# --- Fabric/Loader Internals ---
+.fabric/
+libraries/
+versions/
+
+# --- Java/OS Junk ---
+*.log
+*.tmp
+*.lck
+.DS_Store
+hs_err_pid*
+
+# --- Only track mods, but ignore downloaded server jars if you want ---
+# server.jar
+# fabric-server-launch.jar
