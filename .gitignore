@@ -30,5 +30,6 @@ server.jar
 fabric-server-launch.jar
 
 # Private Data ( I think )
-.rcon-cli.env
-.rcon-cli.yaml
+*.rcon-cli.env
+*.rcon-cli.yaml
+*.install-fabric.env
