@@ -29,7 +29,7 @@ bedrock:
 java:
   # What type of authentication Bedrock players will be checked against when logging into the Java server.
   # Can be "floodgate" (see https://wiki.geysermc.org/floodgate/), "online", or "offline".
-  auth-type: online
+  auth-type: floodgate
 
 # MOTD settings
 motd:
@@ -43,7 +43,7 @@ motd:
 
   # Maximum amount of players that can connect.
   # This is only visual, and is only applied if passthrough-motd is disabled.
-  max-players: 100
+  max-players: 30
 
   # Whether to relay the player count and max players from the Java server to Bedrock players.
   passthrough-player-counts: true
@@ -81,7 +81,7 @@ gameplay:
   # Bedrock prevents building and displaying blocks above Y127 in the Nether.
   # This config option works around that by changing the Nether dimension ID to the End ID.
   # The main downside to this is that the entire Nether will have the same red fog rather than having different fog for each biome.
-  nether-roof-workaround: false
+  nether-roof-workaround: true
 
   # Whether to show Bedrock Edition emotes to other Bedrock Edition players.
   emotes-enabled: true
