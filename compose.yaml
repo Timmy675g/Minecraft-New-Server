@@ -1,6 +1,6 @@
 services:
   mc:
-    image: itzg/minecraft-server:java21-temurin
+    image: itzg/minecraft-server:latest
     container_name: minecraft-docker-new
     tty: true
     stdin_open: true

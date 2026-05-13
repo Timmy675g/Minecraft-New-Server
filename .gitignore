@@ -34,3 +34,4 @@ fabric-server-launch.jar
 *.rcon-cli.env
 *.rcon-cli.yaml
 *.install-fabric.env
+server.properties
