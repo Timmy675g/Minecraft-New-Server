@@ -1,0 +1,545 @@
+{
+  "materials": {
+    "backpacks:item/gui/go_back": {
+      "textures": {
+        "1": "minecraft:gui/container/generic_54",
+        "2": "backpacks:item/gui/go_back",
+        "particle": "backpacks:item/gui/go_back"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/black": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/black",
+        "particle": "backpacks:item/backpacks/normal/2/black"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/christmas": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/christmas",
+        "particle": "backpacks:item/backpacks/normal/3/christmas"
+      }
+    },
+    "invminecarts:minecart/hopper": {
+      "textures": {
+        "0": "invminecarts:entity/minecart",
+        "side": "minecraft:block/hopper_outside",
+        "top": "minecraft:block/hopper_top",
+        "inside": "minecraft:block/hopper_inside"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/cyan": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/cyan",
+        "particle": "backpacks:item/backpacks/normal/3/cyan"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/green": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/green",
+        "particle": "backpacks:item/backpacks/normal/4/green"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/autumnal": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/4/autumnal"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/autumnal": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/1/autumnal"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/cyan": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/cyan",
+        "particle": "backpacks:item/backpacks/normal/2/cyan"
+      }
+    },
+    "invminecarts:minecart/command_block": {
+      "textures": {
+        "0": "invminecarts:entity/minecart",
+        "4": "minecraft:block/command_block_back",
+        "5": "minecraft:block/command_block_front",
+        "6": "minecraft:block/command_block_side"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/yellow": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/yellow",
+        "particle": "backpacks:item/backpacks/normal/3/yellow"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/yellow": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/yellow",
+        "particle": "backpacks:item/backpacks/normal/4/yellow"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/light_gray": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/light_gray",
+        "particle": "backpacks:item/backpacks/normal/3/light_gray"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/white": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/white",
+        "particle": "backpacks:item/backpacks/normal/2/white"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/light_gray": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/light_gray",
+        "particle": "backpacks:item/backpacks/normal/2/light_gray"
+      }
+    },
+    "invminecarts:minecart/furnace": {
+      "textures": {
+        "0": "invminecarts:entity/minecart",
+        "1": "minecraft:block/furnace_side",
+        "2": "minecraft:block/furnace_top",
+        "3": "minecraft:block/furnace_front"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/yellow": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/yellow",
+        "particle": "backpacks:item/backpacks/normal/2/yellow"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/yellow": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/yellow",
+        "particle": "backpacks:item/backpacks/normal/1/yellow"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/brown": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/brown",
+        "particle": "backpacks:item/backpacks/normal/4/brown"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/pink": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/pink",
+        "particle": "backpacks:item/backpacks/normal/1/pink"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/light_blue": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/light_blue",
+        "particle": "backpacks:item/backpacks/normal/3/light_blue"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/light_blue": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/light_blue",
+        "particle": "backpacks:item/backpacks/normal/2/light_blue"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/black": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/black",
+        "particle": "backpacks:item/backpacks/normal/3/black"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/brown": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/brown",
+        "particle": "backpacks:item/backpacks/normal/1/brown"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/green": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/green",
+        "particle": "backpacks:item/backpacks/normal/1/green"
+      }
+    },
+    "backpacks:item/backpacks/ender/end_backpack": {
+      "textures": {
+        "1": "backpacks:item/backpacks/ender/end_backpack",
+        "particle": "backpacks:item/backpacks/ender/end_backpack"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/magenta": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/magenta",
+        "particle": "backpacks:item/backpacks/normal/2/magenta"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/red": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/red",
+        "particle": "backpacks:item/backpacks/normal/2/red"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/cyan": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/cyan",
+        "particle": "backpacks:item/backpacks/normal/1/cyan"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/magenta": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/magenta",
+        "particle": "backpacks:item/backpacks/normal/4/magenta"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/red": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/red",
+        "particle": "backpacks:item/backpacks/normal/1/red"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/christmas": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/1/christmas",
+        "particle": "backpacks:item/backpacks/normal/1/christmas"
+      }
+    },
+    "invminecarts:minecart/normal": {
+      "textures": {
+        "0": "invminecarts:entity/minecart"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/pink": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/pink",
+        "particle": "backpacks:item/backpacks/normal/3/pink"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/orange": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/orange",
+        "particle": "backpacks:item/backpacks/normal/2/orange"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/orange": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/orange",
+        "particle": "backpacks:item/backpacks/normal/4/orange"
+      }
+    },
+    "invminecarts:minecart/chest": {
+      "textures": {
+        "0": "invminecarts:entity/minecart",
+        "3": "minecraft:entity/chest/normal",
+        "particle": "minecraft:entity/chest/normal"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/nether": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/nether",
+        "particle": "backpacks:item/backpacks/normal/3/nether"
+      }
+    },
+    "invminecarts:minecart/tnt": {
+      "textures": {
+        "0": "invminecarts:entity/minecart",
+        "1": "minecraft:block/tnt_side",
+        "2": "minecraft:block/tnt_top",
+        "3": "minecraft:block/tnt_bottom"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/cyan": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/cyan",
+        "particle": "backpacks:item/backpacks/normal/4/cyan"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/white": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/white",
+        "particle": "backpacks:item/backpacks/normal/1/white"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/christmas": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/christmas",
+        "particle": "backpacks:item/backpacks/normal/4/christmas"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/nether": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/nether",
+        "particle": "backpacks:item/backpacks/normal/1/nether"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/light_blue": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/light_blue",
+        "particle": "backpacks:item/backpacks/normal/1/light_blue"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/lime": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/lime",
+        "particle": "backpacks:item/backpacks/normal/2/lime"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/light_gray": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/light_gray",
+        "particle": "backpacks:item/backpacks/normal/4/light_gray"
+      }
+    },
+    "backpacks:item/gui/empty": {
+      "textures": {
+        "1": "minecraft:gui/container/generic_54",
+        "particle": "minecraft:gui/container/generic_54"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/brown": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/brown",
+        "particle": "backpacks:item/backpacks/normal/2/brown"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/red": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/red",
+        "particle": "backpacks:item/backpacks/normal/4/red"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/light_gray": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/light_gray",
+        "particle": "backpacks:item/backpacks/normal/1/light_gray"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/blue": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/blue",
+        "particle": "backpacks:item/backpacks/normal/2/blue"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/purple": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/purple",
+        "particle": "backpacks:item/backpacks/normal/1/purple"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/purple": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/purple",
+        "particle": "backpacks:item/backpacks/normal/2/purple"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/white": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/white",
+        "particle": "backpacks:item/backpacks/normal/4/white"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/autumnal": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/autumnal"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/gray": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/gray",
+        "particle": "backpacks:item/backpacks/normal/3/gray"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/light_blue": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/light_blue",
+        "particle": "backpacks:item/backpacks/normal/4/light_blue"
+      }
+    },
+    "invminecarts:minecart/furnace_on": {
+      "textures": {
+        "0": "invminecarts:entity/minecart",
+        "1": "minecraft:block/furnace_side",
+        "2": "minecraft:block/furnace_top",
+        "3": "minecraft:block/furnace_front_on"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/purple": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/purple",
+        "particle": "backpacks:item/backpacks/normal/4/purple"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/gray": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/gray",
+        "particle": "backpacks:item/backpacks/normal/2/gray"
+      }
+    },
+    "backpacks:item/gui/next_page": {
+      "textures": {
+        "1": "minecraft:gui/container/generic_54",
+        "2": "backpacks:item/gui/next_page",
+        "particle": "backpacks:item/gui/next_page"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/purple": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/purple",
+        "particle": "backpacks:item/backpacks/normal/3/purple"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/blue": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/blue",
+        "particle": "backpacks:item/backpacks/normal/3/blue"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/lime": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/lime",
+        "particle": "backpacks:item/backpacks/normal/3/lime"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/red": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/red",
+        "particle": "backpacks:item/backpacks/normal/3/red"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/black": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/black",
+        "particle": "backpacks:item/backpacks/normal/4/black"
+      }
+    },
+    "invminecarts:minecart/empty": {
+      "textures": {
+        "0": "invminecarts:entity/minecart"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/pink": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/pink",
+        "particle": "backpacks:item/backpacks/normal/4/pink"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/green": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/green",
+        "particle": "backpacks:item/backpacks/normal/2/green"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/pink": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/pink",
+        "particle": "backpacks:item/backpacks/normal/2/pink"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/blue": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/blue",
+        "particle": "backpacks:item/backpacks/normal/1/blue"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/magenta": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/magenta",
+        "particle": "backpacks:item/backpacks/normal/3/magenta"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/blue": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/blue",
+        "particle": "backpacks:item/backpacks/normal/4/blue"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/white": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/white",
+        "particle": "backpacks:item/backpacks/normal/3/white"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/autumnal": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/2/autumnal"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/gray": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/gray",
+        "particle": "backpacks:item/backpacks/normal/4/gray"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/green": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/green",
+        "particle": "backpacks:item/backpacks/normal/3/green"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/black": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/black",
+        "particle": "backpacks:item/backpacks/normal/1/black"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/gray": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/gray",
+        "particle": "backpacks:item/backpacks/normal/1/gray"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/christmas": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/2/christmas",
+        "particle": "backpacks:item/backpacks/normal/2/christmas"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/brown": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/brown",
+        "particle": "backpacks:item/backpacks/normal/3/brown"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/lime": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/4/lime",
+        "particle": "backpacks:item/backpacks/normal/4/lime"
+      }
+    },
+    "backpacks:item/backpacks/normal/3/orange": {
+      "textures": {
+        "1": "backpacks:item/backpacks/normal/3/orange",
+        "particle": "backpacks:item/backpacks/normal/3/orange"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/orange": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/orange",
+        "particle": "backpacks:item/backpacks/normal/1/orange"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/magenta": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/magenta",
+        "particle": "backpacks:item/backpacks/normal/1/magenta"
+      }
+    },
+    "backpacks:item/backpacks/ender/ender_backpack": {
+      "textures": {
+        "1": "backpacks:item/backpacks/ender/ender_backpack",
+        "particle": "backpacks:item/backpacks/ender/ender_backpack"
+      }
+    },
+    "backpacks:item/backpacks/normal/2/nether": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/2/nether",
+        "particle": "backpacks:item/backpacks/normal/2/nether"
+      }
+    },
+    "backpacks:item/backpacks/normal/4/nether": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/4/nether",
+        "particle": "backpacks:item/backpacks/normal/4/nether"
+      }
+    },
+    "backpacks:item/backpacks/normal/1/lime": {
+      "textures": {
+        "2": "backpacks:item/backpacks/normal/1/lime",
+        "particle": "backpacks:item/backpacks/normal/1/lime"
+      }
+    }
+  }
+}

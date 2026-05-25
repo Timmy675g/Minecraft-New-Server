@@ -1,0 +1,9 @@
+{
+  "materials": {
+    "polymer:block/empty": {
+      "textures": {
+        "particle": "polymer:block/empty"
+      }
+    }
+  }
+}

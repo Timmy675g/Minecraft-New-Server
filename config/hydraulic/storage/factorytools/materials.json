@@ -1,0 +1,58 @@
+{
+  "materials": {
+    "factorytools:sgui/button_32_right": {
+      "textures": {}
+    },
+    "factorytools:block_sign/template_wall_hanging_sign": {
+      "textures": {
+        "sign": "minecraft:block/stone",
+        "particle": "minecraft:block/stone"
+      }
+    },
+    "factorytools:block_sign/base/template_sign": {
+      "textures": {
+        "sign": "minecraft:block/stone",
+        "particle": "minecraft:block/stone"
+      }
+    },
+    "factorytools:block_sign/base/template_wall_sign": {
+      "textures": {
+        "sign": "minecraft:block/stone",
+        "particle": "minecraft:block/stone"
+      }
+    },
+    "factorytools:block_sign/base/template_wall_hanging_sign": {
+      "textures": {
+        "sign": "minecraft:block/stone",
+        "particle": "minecraft:block/stone"
+      }
+    },
+    "factorytools:block_sign/template_sign": {
+      "textures": {
+        "sign": "minecraft:block/stone",
+        "particle": "minecraft:block/stone"
+      }
+    },
+    "factorytools:sgui/button_32": {
+      "textures": {}
+    },
+    "factorytools:block_sign/template_hanging_sign": {
+      "textures": {
+        "sign": "minecraft:block/stone",
+        "particle": "minecraft:block/stone"
+      }
+    },
+    "factorytools:block_sign/base/template_hanging_sign": {
+      "textures": {
+        "sign": "minecraft:block/stone",
+        "particle": "minecraft:block/stone"
+      }
+    },
+    "factorytools:block_sign/template_wall_sign": {
+      "textures": {
+        "sign": "minecraft:block/stone",
+        "particle": "minecraft:block/stone"
+      }
+    }
+  }
+}
